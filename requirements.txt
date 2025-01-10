@@ -1,0 +1,11 @@
+fastapi[all]
+alembic
+setuptools
+uvicorn
+psycopg2
+sqlalchemy-utils
+sqlalchemy>=1.4.2
+python-jose[cryptography]
+passlib[bcrypt]
+sqladmin[full]
+pydantic-settings
