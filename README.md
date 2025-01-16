@@ -1,6 +1,6 @@
 ### Fastapi Users module
 ---
-This is module contains User CRUD operations and login api. You can add this users directory directly in any other project to get users   
+This is module contains User CRUD operations and login api. You can add this users directory directly in any other project to get users api end points ready by just copy and past user directory and add it in routes. 
 
 ### How to run this.
 ---   
