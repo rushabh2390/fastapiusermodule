@@ -24,4 +24,4 @@ uvicorn main:app --reload
 ````
 4. You can see api swagger here [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
-![Api list]("api-swagger.jpg")
+![Api list](api-swagger.jpg)
