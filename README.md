@@ -4,7 +4,7 @@ This is module contains User CRUD operations and login api. You can add this use
 
 ### How to run this.
 ---   
-1. Set up .env file with following keys.Set values as per your requirement
+1. Set up .env file with following keys.Set value as per your requirements
 ````
 SECRET_KEY=xxxx #this is for encryption of token
 DATABASE_URL=postgresql://postgres:postgres@localhost/loginmodule
